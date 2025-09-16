@@ -1,3 +1,5 @@
+> This project was created using gemini-cli.
+
 # gemini-cli-101
 
 A simple "Hello, World!" Node.js project.
